@@ -1,0 +1,12 @@
+/* h1 article with bottom border 2px thickness border-style solid and border-color black */
+h1,article{
+    border-bottom: 2px solid black;
+}
+/* header with id top setting border bottom tickness 2px border-style solid border-color gery */
+#top{
+    border-bottom:2px solid grey;
+}
+/* footer with id footer setting border bottom tickness 4px border-style solid border-color black */
+#footer{
+    border-bottom: 4px solid black;
+}
